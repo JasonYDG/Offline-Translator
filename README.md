@@ -2,6 +2,8 @@
 
 A privacy-focused offline AI translation application built with Transformers and Tkinter, providing secure local translation without sending data to external servers.
 
+![Application Screenshot](screenshot.png)
+
 > **⚠️ IMPORTANT NOTICE**: This repository contains placeholder model files. You must download the actual model files (~14GB) before running the application. See [Installation](#-installation) section for details.
 
 ## ✨ Key Features
